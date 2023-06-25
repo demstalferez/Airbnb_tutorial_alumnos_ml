@@ -2,6 +2,13 @@
 
 Este repositorio contiene los archivos necesarios para un proyecto que realiza un análisis exploratorio de datos (EDA) sobre listados de Airbnb y crea un modelo de regresión para predecir precios.
 
+## Aplicación en Vivo
+
+¡Puedes probar la aplicación en vivo! Está alojada en Streamlit y puedes acceder a ella haciendo clic en el siguiente enlace:
+
+[Probar Aplicación de Airbnb](https://airbnb-pycaret.streamlit.app/)
+
+
 ## Estructura del Repositorio
 
 - `input/`: Carpeta que contiene los datos descargados de Kaggle utilizados en el análisis exploratorio de datos (EDA).
