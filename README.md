@@ -11,6 +11,7 @@ Este repositorio contiene los archivos necesarios para un proyecto que realiza u
 - `app.py`: Archivo de Python que contiene el código fuente para una aplicación web de Streamlit que muestra los resultados del análisis.
 - `ml_airbnb.ipynb`: Cuaderno Jupyter utilizado para crear y entrenar un modelo de regresión utilizando PyCaret.
 - `ml_airbnb.pkl`: Archivo que contiene el modelo de regresión entrenado.
+- `requirements.txt` : Nuestro archivo de texto con las librerías que usamos en nuestra app, es esencial para el deploy
 
 ## Cómo Empezar
 
